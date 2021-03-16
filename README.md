@@ -2,7 +2,7 @@
 
 ## mock to learn react.
 
-1. Design API to fetch data from firebase.
+1. Design API to fetch data.
 2. React components, data communication.
 3. DOM events, practice styling(CSS) and mocking.
 
